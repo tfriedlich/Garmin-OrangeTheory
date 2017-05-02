@@ -1,0 +1,15 @@
+<resources>
+<layout id="MainLayout">
+    <label x="center" y="center" text="@Strings.prompt" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+</layout>
+<layout id="WorkoutLayout">
+    <label id="workoutLabel" x="110" y="70" color="Gfx.COLOR_WHITE" text="Workout" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_LARGE" />
+    <label id="totalLabel" x="107.5" y="0" color="Gfx.COLOR_WHITE" text="Total" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_MEDIUM" />
+    <label id="workoutCounter" x="115" y="15" color="Gfx.COLOR_WHITE" text="00:00:00" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_NUMBER_HOT" />
+    <label id="blockLabel" x="107.5" y="160" color="Gfx.COLOR_WHITE" text="Blocka" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_MEDIUM" />
+    <label id="blockCounter" x="115" y="100" color="Gfx.COLOR_WHITE" text="00:00:00" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_NUMBER_HOT" />
+    
+    
+        
+</layout>
+</resources>

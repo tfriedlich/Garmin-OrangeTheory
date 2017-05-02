@@ -1,0 +1,11 @@
+<strings>
+    <string id="AppName">OrangeTheory</string>
+
+    <string id="prompt">Press Start to Begin</string>
+
+    <string id="runBlockLabel">Run Block</string>
+    <string id="weightBlockLabel">Weight Block</string>
+    <string id="rowBlockLabel">Row Block</string>
+    <string id="workoutPrompt">Start Block</string>
+    
+</strings>

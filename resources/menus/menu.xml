@@ -1,0 +1,19 @@
+<resources>
+<menu id="MainMenu">
+    <menu-item id="RunBlock">@Strings.runBlockLabel</menu-item>
+    <menu-item id="RowBlock">@Strings.rowBlockLabel</menu-item>
+    <menu-item id="WeightBlock">@Strings.weightBlockLabel</menu-item>
+    <menu-item id="EndWorkout">End Workout</menu-item>
+</menu>
+<menu id="workoutMenuInactive">
+	<menu-item id="StartBlock">Start Block</menu-item>
+	<menu-item id="EndWorkout">End Workout</menu-item>
+	<menu-item id="RestartWorkout">Restart</menu-item>
+</menu>
+<menu id="workoutMenuActive">
+	<menu-item id="EndBlock">End Block</menu-item>
+	<menu-item id="PauseBlock">Pause Block</menu-item>
+	<menu-item id="EndWorkout">End Workout</menu-item>
+</menu>
+</resources>
+

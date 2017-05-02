@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutView.mc" lineNum="12" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutView.mc" lineNum="13" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutView.mc" lineNum="14" pc="268435491" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutView.mc" lineNum="19" pc="268435510" symbol="onUpdate"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutView.mc" lineNum="20" pc="268435514" symbol="onUpdate"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutView.mc" lineNum="21" pc="268435533" symbol="onUpdate"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutView.mc" lineNum="22" pc="268435552" symbol="onUpdate"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutView.mc" lineNum="23" pc="268435562" symbol="onUpdate"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutView.mc" lineNum="24" pc="268435572" symbol="onUpdate"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutView.mc" lineNum="25" pc="268435582" symbol="onUpdate"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutView.mc" lineNum="26" pc="268435592" symbol="onUpdate"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutView.mc" lineNum="27" pc="268435638" symbol="onUpdate"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutView.mc" lineNum="28" pc="268435746" symbol="onUpdate"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutView.mc" lineNum="29" pc="268435854" symbol="onUpdate"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutView.mc" lineNum="34" pc="268435875" symbol="onLayout"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutView.mc" lineNum="35" pc="268435879" symbol="onLayout"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutView.mc" lineNum="44" pc="268435917" symbol="onShow"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutView.mc" lineNum="52" pc="268435922" symbol="onHide"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutMenuDelegate.mc" lineNum="7" pc="268435927" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutMenuDelegate.mc" lineNum="8" pc="268435931" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutMenuDelegate.mc" lineNum="9" pc="268435962" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutMenuDelegate.mc" lineNum="12" pc="268435981" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutMenuDelegate.mc" lineNum="13" pc="268435985" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutMenuDelegate.mc" lineNum="14" pc="268435996" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutMenuDelegate.mc" lineNum="15" pc="268436014" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutMenuDelegate.mc" lineNum="16" pc="268436035" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutMenuDelegate.mc" lineNum="17" pc="268436059" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutMenuDelegate.mc" lineNum="19" pc="268436127" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutMenuDelegate.mc" lineNum="20" pc="268436148" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutMenuDelegate.mc" lineNum="21" pc="268436166" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutMenuDelegate.mc" lineNum="22" pc="268436184" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutMenuDelegate.mc" lineNum="24" pc="268436219" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutMenuDelegate.mc" lineNum="25" pc="268436237" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutMenuDelegate.mc" lineNum="27" pc="268436272" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutMenuDelegate.mc" lineNum="29" pc="268436307" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="18" pc="268436329" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="19" pc="268436333" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="20" pc="268436343" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="21" pc="268436374" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="22" pc="268436392" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="25" pc="268436413" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="30" pc="268436432" symbol="onMenu"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="31" pc="268436436" symbol="onMenu"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="32" pc="268436520" symbol="onMenu"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="35" pc="268436524" symbol="onSelect"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="37" pc="268436528" symbol="onSelect"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="40" pc="268436548" symbol="onSelect"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="43" pc="268436589" symbol="onSelect"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="44" pc="268436608" symbol="onSelect"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="46" pc="268436695" symbol="onSelect"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="50" pc="268436782" symbol="onSelect"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="51" pc="268436803" symbol="onSelect"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="55" pc="268436887" symbol="onSelect"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="58" pc="268436891" symbol="onNextPage"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="60" pc="268436895" symbol="onNextPage"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="61" pc="268436916" symbol="onNextPage"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="62" pc="268436932" symbol="onNextPage"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="65" pc="268436936" symbol="onPreviousPage"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="66" pc="268436940" symbol="onPreviousPage"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="67" pc="268436961" symbol="onPreviousPage"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="70" pc="268436965" symbol="onBack"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="71" pc="268436969" symbol="onBack"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="72" pc="268436990" symbol="onBack"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="75" pc="268436994" symbol="onNextMode"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="76" pc="268436998" symbol="onNextMode"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="77" pc="268437019" symbol="onNextMode"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="80" pc="268437023" symbol="onPreviousMode"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="81" pc="268437027" symbol="onPreviousMode"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryWorkoutDelegate.mc" lineNum="82" pc="268437048" symbol="onPreviousMode"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryView.mc" lineNum="5" pc="268437052" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryView.mc" lineNum="6" pc="268437056" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryView.mc" lineNum="10" pc="268437075" symbol="onLayout"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryView.mc" lineNum="11" pc="268437079" symbol="onLayout"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryView.mc" lineNum="17" pc="268437117" symbol="onShow"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryView.mc" lineNum="21" pc="268437122" symbol="onUpdate"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryView.mc" lineNum="23" pc="268437126" symbol="onUpdate"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryView.mc" lineNum="29" pc="268437147" symbol="onHide"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryModel.mc" lineNum="4" pc="268437152" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryMenuDelegate.mc" lineNum="7" pc="268437157" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryMenuDelegate.mc" lineNum="8" pc="268437161" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryMenuDelegate.mc" lineNum="9" pc="268437192" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryMenuDelegate.mc" lineNum="12" pc="268437211" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryMenuDelegate.mc" lineNum="13" pc="268437215" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryMenuDelegate.mc" lineNum="14" pc="268437226" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryMenuDelegate.mc" lineNum="16" pc="268437249" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryMenuDelegate.mc" lineNum="19" pc="268437284" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryMenuDelegate.mc" lineNum="20" pc="268437307" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryMenuDelegate.mc" lineNum="23" pc="268437342" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryMenuDelegate.mc" lineNum="24" pc="268437365" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryMenuDelegate.mc" lineNum="26" pc="268437389" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryMenuDelegate.mc" lineNum="27" pc="268437413" symbol="onMenuItem"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="5" pc="268437468" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="6" pc="268437472" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="9" pc="268437491" symbol="onMenu"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="10" pc="268437495" symbol="onMenu"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="11" pc="268437579" symbol="onMenu"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="14" pc="268437583" symbol="onSelect"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="16" pc="268437587" symbol="onSelect"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="17" pc="268437671" symbol="onSelect"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="20" pc="268437675" symbol="onNextPage"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="22" pc="268437679" symbol="onNextPage"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="23" pc="268437700" symbol="onNextPage"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="26" pc="268437704" symbol="onPreviousPage"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="27" pc="268437708" symbol="onPreviousPage"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="28" pc="268437729" symbol="onPreviousPage"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="31" pc="268437733" symbol="onBack"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="32" pc="268437737" symbol="onBack"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="33" pc="268437758" symbol="onBack"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="36" pc="268437762" symbol="onNextMode"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="37" pc="268437766" symbol="onNextMode"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="38" pc="268437787" symbol="onNextMode"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="41" pc="268437791" symbol="onPreviousMode"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="42" pc="268437795" symbol="onPreviousMode"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryDelegate.mc" lineNum="43" pc="268437816" symbol="onPreviousMode"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="29" pc="268437820" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="31" pc="268437824" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="32" pc="268437853" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="33" pc="268437887" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="37" pc="268437929" symbol="getBlockDuration"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="38" pc="268437933" symbol="getBlockDuration"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="39" pc="268437933" symbol="getBlockDuration"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="40" pc="268437944" symbol="getBlockDuration"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="42" pc="268437987" symbol="getBlockDuration"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="46" pc="268437997" symbol="getWorkoutDuration"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="47" pc="268438001" symbol="getWorkoutDuration"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="48" pc="268438001" symbol="getWorkoutDuration"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="49" pc="268438012" symbol="getWorkoutDuration"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="51" pc="268438049" symbol="getWorkoutDuration"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="53" pc="268438056" symbol="getWorkoutDuration"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="57" pc="268438060" symbol="startWorkout"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="58" pc="268438064" symbol="startWorkout"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="60" pc="268438074" symbol="startWorkout"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="61" pc="268438097" symbol="startWorkout"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="64" pc="268438128" symbol="stopWorkout"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="65" pc="268438132" symbol="stopWorkout"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="68" pc="268438143" symbol="setActiveBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="69" pc="268438147" symbol="setActiveBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="70" pc="268438157" symbol="setActiveBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="71" pc="268438176" symbol="setActiveBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="72" pc="268438196" symbol="setActiveBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="73" pc="268438216" symbol="setActiveBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="74" pc="268438235" symbol="setActiveBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="76" pc="268438273" symbol="setActiveBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="77" pc="268438293" symbol="setActiveBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="78" pc="268438313" symbol="setActiveBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="79" pc="268438332" symbol="setActiveBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="81" pc="268438370" symbol="setActiveBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="82" pc="268438390" symbol="setActiveBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="83" pc="268438410" symbol="setActiveBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="84" pc="268438429" symbol="setActiveBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="88" pc="268438449" symbol="startBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="89" pc="268438453" symbol="startBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="90" pc="268438463" symbol="startBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="91" pc="268438486" symbol="startBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="92" pc="268438548" symbol="startBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="93" pc="268438619" symbol="startBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="96" pc="268438638" symbol="stopBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="97" pc="268438642" symbol="stopBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="98" pc="268438652" symbol="stopBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="99" pc="268438665" symbol="stopBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="100" pc="268438674" symbol="stopBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="101" pc="268438683" symbol="stopBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="102" pc="268438696" symbol="stopBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="103" pc="268438714" symbol="stopBlock"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="106" pc="268438733" symbol="onTimer"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="108" pc="268438737" symbol="onTimer"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="112" pc="268438754" symbol="onExit"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryController.mc" lineNum="113" pc="268438758" symbol="onExit"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryApp.mc" lineNum="9" pc="268438777" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryApp.mc" lineNum="10" pc="268438781" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryApp.mc" lineNum="11" pc="268438799" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryApp.mc" lineNum="12" pc="268438833" symbol="initialize"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryApp.mc" lineNum="16" pc="268438868" symbol="onStart"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryApp.mc" lineNum="20" pc="268438873" symbol="onStop"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryApp.mc" lineNum="24" pc="268438878" symbol="getInitialView"/>
+<entry filename="C:\\Projects\\OrangeTheory\\source\\OrangeTheoryApp.mc" lineNum="25" pc="268438882" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="17" pc="268438950" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268438954" symbol="initialize"/>
+<entry filename="Rez" lineNum="19" pc="268438972" symbol="initialize"/>
+<entry filename="Rez" lineNum="20" pc="268439024" symbol="initialize"/>
+<entry filename="Rez" lineNum="21" pc="268439076" symbol="initialize"/>
+<entry filename="Rez" lineNum="30" pc="268439129" symbol="initialize"/>
+<entry filename="Rez" lineNum="31" pc="268439133" symbol="initialize"/>
+<entry filename="Rez" lineNum="32" pc="268439151" symbol="initialize"/>
+<entry filename="Rez" lineNum="33" pc="268439173" symbol="initialize"/>
+<entry filename="Rez" lineNum="34" pc="268439195" symbol="initialize"/>
+<entry filename="Rez" lineNum="43" pc="268439218" symbol="initialize"/>
+<entry filename="Rez" lineNum="44" pc="268439222" symbol="initialize"/>
+<entry filename="Rez" lineNum="45" pc="268439240" symbol="initialize"/>
+<entry filename="Rez" lineNum="46" pc="268439262" symbol="initialize"/>
+<entry filename="Rez" lineNum="47" pc="268439284" symbol="initialize"/>
+<entry filename="Rez" lineNum="62" pc="268439307" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="64" pc="268439311" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="65" pc="268439489" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="66" pc="268439514" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="67" pc="268439566" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="70" pc="268439612" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="79" pc="268439630" symbol="WorkoutLayout"/>
+<entry filename="Rez" lineNum="81" pc="268439634" symbol="WorkoutLayout"/>
+<entry filename="Rez" lineNum="82" pc="268439780" symbol="WorkoutLayout"/>
+<entry filename="Rez" lineNum="83" pc="268439926" symbol="WorkoutLayout"/>
+<entry filename="Rez" lineNum="84" pc="268440072" symbol="WorkoutLayout"/>
+<entry filename="Rez" lineNum="85" pc="268440218" symbol="WorkoutLayout"/>
+<entry filename="Rez" lineNum="88" pc="268440364" symbol="WorkoutLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="51" symbol="runBlockLabel"/>
+<entry field="true" id="57" symbol="model"/>
+<entry id="67" symbol="EndBlock"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="59" symbol="timerGO"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="42" symbol="parentView"/>
+<entry field="true" id="52" symbol="weightBlockLabel"/>
+<entry id="69" symbol="RowBlock"/>
+<entry field="true" id="58" symbol="controller"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388645" symbol="Time"/>
+<entry id="40" method="true" symbol="onExit"/>
+<entry id="48" object="true" symbol="workoutMenuActive"/>
+<entry id="46" object="true" symbol="MainMenu"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry id="35" method="true" symbol="stopWorkout"/>
+<entry field="true" id="26" symbol="rowCount"/>
+<entry field="true" id="31" symbol="curSubSport"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="55" symbol="workoutPrompt"/>
+<entry id="66" symbol="PauseBlock"/>
+<entry id="8389082" method="true" symbol="onNextMode"/>
+<entry id="9" object="true" symbol="OrangeTheoryWorkoutMenuDelegate"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="49" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="33" method="true" symbol="getWorkoutDuration"/>
+<entry field="true" id="29" symbol="curBlockCount"/>
+<entry field="true" id="28" symbol="weightCount"/>
+<entry field="true" id="25" symbol="timer"/>
+<entry id="64" symbol="RestartWorkout"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="19" symbol="isActiveBlock"/>
+<entry id="11" object="true" symbol="OrangeTheoryView"/>
+<entry field="true" id="56" symbol="AppName"/>
+<entry field="true" id="20" symbol="workoutStartTime"/>
+<entry id="8388890" symbol="sport"/>
+<entry id="36" method="true" symbol="setActiveBlock"/>
+<entry id="68" symbol="RunBlock"/>
+<entry id="63" symbol="EndWorkout"/>
+<entry id="8388892" symbol="name"/>
+<entry id="50" method="true" symbol="WorkoutLayout"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry id="47" object="true" symbol="workoutMenuInactive"/>
+<entry field="true" id="27" symbol="runCount"/>
+<entry field="true" id="45" symbol="LauncherIcon"/>
+<entry id="8388646" symbol="Timer"/>
+<entry id="8389081" method="true" symbol="onBack"/>
+<entry id="12" object="true" symbol="OrangeTheoryModel"/>
+<entry id="62" symbol="StartBlock"/>
+<entry id="8388648" symbol="WatchUi"/>
+<entry id="8389083" method="true" symbol="onPreviousMode"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8388891" symbol="subSport"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="24" symbol="currentBlock"/>
+<entry id="16" object="true" symbol="OrangeTheoryApp"/>
+<entry field="true" id="23" symbol="blockDuration"/>
+<entry id="13" object="true" symbol="OrangeTheoryMenuDelegate"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="14" object="true" symbol="OrangeTheoryDelegate"/>
+<entry id="70" symbol="WeightBlock"/>
+<entry field="true" id="60" symbol="timerCOUNT"/>
+<entry id="10" object="true" symbol="OrangeTheoryWorkoutDelegate"/>
+<entry field="true" id="8388651" symbol="session"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry field="true" id="17" symbol="mModel"/>
+<entry field="true" id="61" symbol="workoutCounter"/>
+<entry id="15" object="true" symbol="OrangeTheoryController"/>
+<entry id="44" module="true" symbol="Layouts"/>
+<entry field="true" id="54" symbol="prompt"/>
+<entry id="8389079" method="true" symbol="onPreviousPage"/>
+<entry field="true" id="41" symbol="mController"/>
+<entry id="32" method="true" symbol="getBlockDuration"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="18" symbol="isActiveWorkout"/>
+<entry id="8389346" symbol="text"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="37" method="true" symbol="startBlock"/>
+<entry id="43" module="true" symbol="Menus"/>
+<entry field="true" id="30" symbol="curSport"/>
+<entry field="true" id="53" symbol="rowBlockLabel"/>
+<entry id="34" method="true" symbol="startWorkout"/>
+<entry id="38" method="true" symbol="stopBlock"/>
+<entry id="8" object="true" symbol="OrangeTheoryWorkoutView"/>
+<entry field="true" id="22" symbol="workoutDuration"/>
+<entry id="39" method="true" symbol="onTimer"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="21" symbol="blockStartTime"/>
+<entry id="8388635" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435874" name="workoutDuration" stackId="2" startPc="268435514"/>
+<entry endPc="268435874" name="blockSeconds" stackId="5" startPc="268435514"/>
+<entry endPc="268435874" name="blockDuration" stackId="3" startPc="268435514"/>
+<entry endPc="268435874" name="mins" stackId="6" startPc="268435514"/>
+<entry endPc="268435874" name="blockMins" stackId="4" startPc="268435514"/>
+<entry endPc="268435874" name="seconds" stackId="7" startPc="268435514"/>
+<entry endPc="268436113" name="view" stackId="2" startPc="268435996"/>
+<entry endPc="268437467" name="view" stackId="2" startPc="268437215"/>
+<entry endPc="268437996" name="duration" stackId="1" startPc="268437933"/>
+<entry endPc="268438059" name="duration" stackId="1" startPc="268438001"/>
+<entry endPc="268438637" name="activityName" stackId="1" startPc="268438453"/>
+<entry endPc="268439629" name="rez_cmp_local_bitmap_JE1MFVQUTP_fontHeight" stackId="3" startPc="268439311"/>
+<entry endPc="268439629" name="rez_cmp_local_bitmap_JE1MFVQUTP" stackId="2" startPc="268439311"/>
+<entry endPc="268440421" name="rez_cmp_local_bitmap_blockLabel" stackId="5" startPc="268439634"/>
+<entry endPc="268440421" name="rez_cmp_local_bitmap_workoutLabel" stackId="2" startPc="268439634"/>
+<entry endPc="268440421" name="rez_cmp_local_bitmap_blockCounter" stackId="6" startPc="268439634"/>
+<entry endPc="268440421" name="rez_cmp_local_bitmap_workoutCounter" stackId="4" startPc="268439634"/>
+<entry endPc="268440421" name="rez_cmp_local_bitmap_totalLabel" stackId="3" startPc="268439634"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="OrangeTheoryWorkoutView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="OrangeTheoryWorkoutView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="OrangeTheoryWorkoutView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="OrangeTheoryWorkoutView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="OrangeTheoryWorkoutView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="OrangeTheoryWorkoutMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="OrangeTheoryWorkoutMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="OrangeTheoryWorkoutDelegate">
+<param id="view"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="OrangeTheoryWorkoutDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onSelect" parent="OrangeTheoryWorkoutDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="OrangeTheoryWorkoutDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="OrangeTheoryWorkoutDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onBack" parent="OrangeTheoryWorkoutDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextMode" parent="OrangeTheoryWorkoutDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousMode" parent="OrangeTheoryWorkoutDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="OrangeTheoryView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="OrangeTheoryView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="OrangeTheoryView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="OrangeTheoryView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="OrangeTheoryView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="OrangeTheoryModel">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="OrangeTheoryMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="OrangeTheoryMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="OrangeTheoryDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="OrangeTheoryDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onSelect" parent="OrangeTheoryDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="OrangeTheoryDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="OrangeTheoryDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onBack" parent="OrangeTheoryDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextMode" parent="OrangeTheoryDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousMode" parent="OrangeTheoryDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="OrangeTheoryController">
+<documentation/>
+</functionEntry>
+<functionEntry name="getBlockDuration" parent="OrangeTheoryController">
+<documentation/>
+</functionEntry>
+<functionEntry name="getWorkoutDuration" parent="OrangeTheoryController">
+<documentation/>
+</functionEntry>
+<functionEntry name="startWorkout" parent="OrangeTheoryController">
+<documentation/>
+</functionEntry>
+<functionEntry name="stopWorkout" parent="OrangeTheoryController">
+<documentation/>
+</functionEntry>
+<functionEntry name="setActiveBlock" parent="OrangeTheoryController">
+<param id="blockType"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="startBlock" parent="OrangeTheoryController">
+<documentation/>
+</functionEntry>
+<functionEntry name="stopBlock" parent="OrangeTheoryController">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimer" parent="OrangeTheoryController">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExit" parent="OrangeTheoryController">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="OrangeTheoryApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="OrangeTheoryApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="OrangeTheoryApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="OrangeTheoryApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="workoutMenuInactive">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="workoutMenuActive">
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="WorkoutLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

@@ -1,0 +1,8 @@
+
+class OrangeTheoryModel{
+
+	function initialize() {
+	
+	}
+
+}
